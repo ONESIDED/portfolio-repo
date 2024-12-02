@@ -15,8 +15,8 @@
     "url": "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website"
   },
   {
-    "title": "GitHub Codespaces and github.dev",
-    "description": "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    "url": "https://www.youtube.com/watch?v=c3hHhRME_XI"
+    "title": "GitHub DotNet API Testing Project",
+    "description": "This project covers API testing using MVC, Entity Framework, EF Core, ADO.NET, and Dapper. It includes best practices for creating efficient APIs and features detailed documentation and video tutorials. It also explains when to use GitHub.devversus GitHub Codespaces to optimize your development workflow.",
+    "url": "https://github.com/ONESIDED/PSTDotNetCore"
   }
 ]
