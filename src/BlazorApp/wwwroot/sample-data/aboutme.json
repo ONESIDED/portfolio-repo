@@ -1,12 +1,15 @@
 {
-  "description": "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.",
+  "description": "I'm a passionate .NET developer with a focus on building scalable and efficient software solutions. With a strong foundation in C# and the .NET framework, I enjoy solving complex problems and creating robust applications.",
   "skills": [
-    "Web design",
-    "User experience",
-    "Inclusive design",
-    "Focus group testing",
-    "Mobile user interfaces",
-    "Graphic design"
+    ".NET Framework",
+    "C#",
+    "ASP.NET MVC",
+    "Entity Framework, EFcore, Dapper",
+    "RESTful APIs",
+    "SQL Server (MMSQL)",
+    "Test-Driven Development (TDD)",
+    "Version Control (Git)"
   ],
-  "detailOrQuote": "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all."
+  "detailOrQuote": "I am dedicated to continuously learning and applying new technologies to enhance software performance and user experience. By leveraging my expertise in .NET development, I strive to create applications that are not only functional but also user-friendly and maintainable."
 }
+
