@@ -1,18 +1,18 @@
 [
   {
-    "title": "10 Things To Know About Azure Static Web Apps 🎉",
-    "description": "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    "url": "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i"
+    "title": "IRD's Financial Information & Reporting System",
+    "description": "Built for Myanmar's Internal Revenue Department (IRD), this system enhances financial data management and reporting. Utilizing .NET technologies, it ensures accurate reports, robust security, and integrates smoothly with existing workflows. The system supports data analytics for better decision-making, showcasing my ability to develop secure, efficient, and scalable financial systems for government use.",
+    "url": "https://firs.ird.gov.mm/login.aspx?ReturnUrl=%2f"
   },
   {
-    "title": "Web Development for Beginners",
-    "description": "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    "url": "https://github.com/microsoft/web-dev-for-beginners"
+    "title": "Smart HR System",
+    "description": "Developed a Smart HR System for efficient HR management using advanced .NET technologies. This system automates HR tasks like employee data management, payroll processing, and performance evaluations. It features intuitive interfaces, strong security measures, and seamless workflow integration, demonstrating my expertise in building scalable and user-friendly HR solutions",
+    "url": "https://clouduat.acedatasystems.com"
   },
   {
-    "title": "My Resume Site",
-    "description": "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    "url": "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website"
+    "title": "ACE HR System of ",
+    "description": "Developed a Smart HR System for efficient human resources management. Utilizing advanced .NET technologies, this system automates various HR tasks, including employee data management, payroll processing, and performance evaluations. It features intuitive user interfaces, robust security measures, and seamless integration with existing business workflows. This project demonstrates my expertise in building scalable, secure, and user-friendly HR solutions.",
+    "url": "https://acehrms.acedatasystem.com"
   },
   {
     "title": "GitHub DotNet API Testing Project",
